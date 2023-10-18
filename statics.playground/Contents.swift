@@ -14,7 +14,7 @@ class Student:Person {
 //  //  override static var count : Int {
 //        return 150
 //    }
-    //The static var above is commented because it will give an error.  static is not overrideable.  You can remove the comment to see that the compiler pops an reeor message.
+    //The static var above is commented because it will give an error.  static is not overrideable.  You can remove the comment to see that the compiler pops an error message for it.
     override  class var averageAge: Double {
         return 19.5
     }
